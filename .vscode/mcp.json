@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "pizza MCP": {
+      "command": "uv",
+      "args": [
+        "run",
+        "main.py"
+      ]
+    }
+  }
+}  
+
+        
+    
